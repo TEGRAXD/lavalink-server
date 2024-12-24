@@ -4,7 +4,7 @@ This project is a customized Lavalink server configured with the **YouTube Plugi
 ## Youtube Plugin Version
 `1.11.2`
 
-For more version see their [repository](https://github.com/lavalink-devs/youtube-source/releases) or [maven](https://maven.lavalink.dev/).
+For more versions see their [repository](https://github.com/lavalink-devs/youtube-source/releases) or [maven](https://maven.lavalink.dev/).
 
 ## Download
 ```bash
@@ -14,7 +14,7 @@ wget https://github.com/lavalink-devs/Lavalink/releases/download/4.0.8/Lavalink.
 You can see more versions in their [repository](https://github.com/lavalink-devs/Lavalink/releases).
 
 ## Running
-You are able to run Lavalink using Java or start.sh.
+You are able to run Lavalink using Java.
 ```bash
 java -jar Lavalink.jar
 ```
