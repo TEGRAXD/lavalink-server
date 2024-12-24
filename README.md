@@ -23,4 +23,4 @@ java -jar Lavalink.jar
 ```bash
 docker compose up --build -d
 ```
-See docker-compose.yaml and Dockerfile for more details.
+See [docker-compose.yaml](docker-compose.yaml) and [Dockerfile](Dockerfile) for more details.
