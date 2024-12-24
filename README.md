@@ -2,7 +2,8 @@
 This project is a customized Lavalink server configured with the **YouTube Plugin**.
 
 ## Youtube Plugin Version
-Youtube Plugin: `1.11.2`
+`1.11.2`
+
 For more version see their [repository](https://github.com/lavalink-devs/youtube-source/releases) or [maven](https://maven.lavalink.dev/).
 
 ## Download
