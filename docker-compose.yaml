@@ -1,6 +1,6 @@
 services:
   lavalink:
-    image: ghcr.io/lavalink-devs/lavalink:4.0.8
+    image: ghcr.io/lavalink-devs/lavalink:latest-alpine
     container_name: lavalink
     # user: ":" # Set user and group for the container
     restart: unless-stopped
