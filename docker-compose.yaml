@@ -12,14 +12,14 @@ services:
       - ./application.yml:/opt/Lavalink/application.yml # Mount application.yml from the same directory or use environment variables
       - ./plugins/:/opt/Lavalink/plugins/ # Persist plugins between restarts, make sure to set the correct permissions (user: 322, group: 322)
     # network_mode: "host" # Use network host if you're setting up IPv6 Rotation. 
-    #networks:
+    # networks:
       # - lavalink
     # expose: # Exposes port 2333 to connect to for other containers
       # - 2333
     ports: # Let lavalink accessible from outside of containers
       - "2333:2333"
 
-#networks:
-  #lavalink:
+# networks:
+  # lavalink:
   #  name: lavalink
   #  driver: bridge
